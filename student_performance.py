@@ -102,7 +102,7 @@ plt.title("Actual vs Predicted GPA")
 plt.grid(True)
 plt.show()
 
-print("\n Try Predicting GPA with Your Own Data")
+# print("\n Try Predicting GPA with Your Own Data")
 
 user_data = {
     "Age": int(input("Enter Age (15-18yrs): ")),
