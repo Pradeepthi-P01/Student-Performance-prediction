@@ -1,9 +1,9 @@
-# -------- AI-Based Student Performance Prediction System--------
+# AI-Based Student Performance Prediction System
 
 This project predicts a student's **GPA (Grade Point Average)** using a Machine Learning model trained on academic, demographic, and behavioral factors.  
 A **Streamlit web application** is included to allow users to input student details and instantly receive a GPA prediction
 
-## ----- Project Overview -----
+## Project Overview
 
 This system uses a *Random Forest Regression model* trained on a dataset of 2,392 students.  
 The features include:
@@ -28,7 +28,7 @@ The project includes:
 - Streamlit user interface  
 - A complete project report  
 
-## --- Folder Structure ---
+## Folder Structure
 student_performance/
 │
 ├── app.py -- Streamlit web app (UI)
@@ -61,7 +61,7 @@ student_performance/
 
 Random Forest performed best compared to Linear Regression and Ridge Regression.
 
-## -------- Visualizations Included ----------
+##  Visualizations Included 
 
 The following plots are generated in the training script:
 
@@ -92,7 +92,7 @@ Located in "app.py".
 ### Output:
 --- Predicted GPA (0.0 – 4.0)  
 
-## ------> How to Run This Project
+## How to Run This Project
 
 ### 1. Install all required libraries
 
